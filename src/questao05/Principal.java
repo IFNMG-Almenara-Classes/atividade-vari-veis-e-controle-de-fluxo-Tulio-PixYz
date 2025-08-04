@@ -14,6 +14,6 @@ public class Principal {
             valor = 0.30;
         }
         precoFinal = quantidade*valor;
-        System.out.printf("%d maçãs fica por R$%.2f reais\n", quantidade, precoFinal);
+        System.out.printf("%d maçãs ficam por R$%.2f reais\n", quantidade, precoFinal);
     }
 }
